@@ -4,7 +4,7 @@ options:
 columns:
     column1:
         section1: 
-            title: "What is Spoutcraft?"
+            title: "What is Innovation?"
             text: "Innovation is a modification for the Minecraft client that modifies the and enhance the game. Its goal is to give players an easy to use platform for building and code creations, while providing a rich gameplay experience for users."
         section2:
             title: "What is beta for?"
