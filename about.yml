@@ -1,0 +1,39 @@
+options:
+    section-margin: 20
+    column-margin: 20
+columns:
+    column1:
+        section1: 
+            title: "What is Spoutcraft?"
+            text: "Innovation is a modification for the Minecraft client that modifies the and enhance the game. Its goal is to give players an easy to use platform for building and code creations, while providing a rich gameplay experience for users."
+        section2:
+            title: "What is beta for?"
+            text: "Beta stage is for testing and optimization to the client to make it faster reliably and fun."
+        section4:
+            title: "Services"
+            table: 
+                "Not avaiable": "No one"
+                "...": "..."
+                "..": "...."
+                "...": "..."
+                "...": "..."
+                "....": "..."
+                "....": "...."
+                "...": "....."
+                "....": "..."
+    column2:
+        section2:
+            title: "Team"
+            table: 
+                "cut27": "For being a friend"
+                "spikey32906": "Innovative tester"
+                "Swat": "Lead Developer"
+                "Dinnerbone": "Developer of bukkit and Minecraft"
+        section3:
+            title: "Contact"
+            table:
+                "Forums": "Coming soon."
+                "IRC": "Coming soon."
+        section4:
+            title: "Note"
+            text: "Innovative are self-made by Swatcommader6, and other modpacks that have the same ui copied our class files"
